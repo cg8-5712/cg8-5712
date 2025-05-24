@@ -5,7 +5,12 @@
 
 <!-- Profile Card -->
 <div align="center">
-    <br>
+<br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cg8-5712&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&count_private=true" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg8-5712&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true" height="150"/>
+  </p>
+<br>
   <b>cg8-5712</b> <br>
   <sub>Beijing No.35 High School · Grade 11</sub> <br>
   <sub>bj35-dev Team Lead | Aviation & NLP Enthusiast</sub>
@@ -68,10 +73,7 @@
 ---
 
 <!-- Stats & Graphs -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cg8-5712&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg8-5712&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true" height="150"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cg8-5712&theme=github&area=true&area_color=00ff00" height="180"/>
 </p>
