@@ -85,15 +85,13 @@
 
 <!-- WakaTime -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2038%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 338.4 kB Used in GitHub's Storage 
+> 📦 338.5 kB Used in GitHub's Storage 
  > 
-> 🏆 692 Contributions in the Year 2025
+> 🏆 695 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,5 +116,5 @@ Go                       2 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/cg8-5712/cg8-5712/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 18:47:06 UTC
+ Last Updated on 20/09/2025 18:43:08 UTC
 <!--END_SECTION:waka-->
