@@ -12,7 +12,7 @@
   </p>
 <br>
   <b>cg8-5712</b> <br>
-  <sub>Beijing No.35 High School · Grade 11</sub> <br>
+  <sub>Beijing No.35 High School · Grade 12</sub> <br>
   <sub>bj35-dev Team Lead | Aviation & NLP Enthusiast</sub>
   <br><br>
   <img src="https://img.shields.io/badge/Email-5712.cg8Gmail.com-ffb6c1?style=flat-square&logo=gmail">
