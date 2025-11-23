@@ -7,8 +7,8 @@
 <div align="center">
 <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cg8-5712&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg8-5712&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&exclude_repo=2.8inch_ESP32-2432S028R_QRH,CYD&langs_count=12" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=cg8-5712&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight" height="220"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cg8-5712&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&exclude_repo=2.8inch_ESP32-2432S028R_QRH,CYD&langs_count=12" height="220"/>
   </p>
 <br>
   <b>cg8-5712</b> <br>
