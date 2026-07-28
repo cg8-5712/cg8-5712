@@ -12,16 +12,97 @@
   </p>
 <br>
   <b>cg8-5712</b> <br>
-  <sub>Beijing No.35 High School · Grade 12</sub> <br>
-  <sub>bj35-dev Team Lead | Aviation & NLP Enthusiast</sub>
+  <sub>BUAA · Incoming Freshman</sub> <br>
+  <sub>Cadet Pilot | Go Learner | Ready for Rust</sub>
   <br><br>
   <img src="https://img.shields.io/badge/Email-5712.cg8Gmail.com-ffb6c1?style=flat-square&logo=gmail">
-  <img src="https://img.shields.io/badge/From-Beijing%20No.35%20HS-87cefa?style=flat-square">
-  <img src="https://img.shields.io/badge/Dream-Pilot%20or%20IT%20Teacher-ffd700?style=flat-square">
+  <img src="https://img.shields.io/badge/From-BUAA-87cefa?style=flat-square">
 </div>
 
----
+<p align="center">
+  <br><br>
+  <!-- GitHub profile visits -->
+  <img src="https://badges.strrl.dev/visits/cg8-5712/cg8-5712?color=87cefa&logo=github">
+  <!-- Account age -->
+  <img src="https://badges.strrl.dev/years/cg8-5712?color=ffb6c1&logo=github">
+  <!-- Repository count -->
+  <img src="https://badges.strrl.dev/repos/cg8-5712?color=87cefa&logo=github">
+  <!-- Daily commits -->
+  <img src="https://badges.strrl.dev/commits/daily/cg8-5712?color=ffb6c1&logo=github">
+  <!-- Daily contributions -->
+  <img src="https://badges.strrl.dev/contributions/daily/cg8-5712?color=87cefa&logo=github">
+  <!-- Issues and PRs -->
+  <img src="https://badges.strrl.dev/issues-and-prs/all/cg8-5712?color=ffb6c1&logo=github">
+</p>
 
+---
+<!-- Organizations -->
+<details>
+  <summary><b>🏢 Organizations</b></summary>
+  <br>
+
+  <div align="center">
+
+  <a href="https://github.com/CCH-HQ">
+    <img src="https://img.shields.io/badge/CCH--HQ-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/AeroVision-Lab">
+    <img src="https://img.shields.io/badge/AeroVision--Lab-87cefa?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/AG-Angui">
+    <img src="https://img.shields.io/badge/AG--Angui-ffb6c1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/QuanPhotos">
+    <img src="https://img.shields.io/badge/QuanPhotos-ffd700?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  </div>
+
+  <br>
+
+<ul>
+  <li>
+    🤖 <b>CCH-HQ</b><br>
+    Claude Code Hub ecosystem organization.
+    Building a team-oriented AI Coding gateway platform with
+    multi-provider AI integration, intelligent routing,
+    load balancing, automatic failover, usage analytics,
+    and developer workflow optimization.
+  </li>
+
+  <br>
+
+  <li>
+    ✈️ <b>AeroVision-Lab</b><br>
+    Aviation AI research group focusing on computer vision,
+    aircraft recognition, aviation image understanding,
+    and intelligent visual analysis.
+  </li>
+
+  <br>
+
+  <li>
+    🗺️ <b>AG-Angui</b><br>
+    AI-powered map collaboration platform for lost elderly rescue scenarios.
+    Developing intelligent search, location analysis,
+    and rescue coordination systems.
+  </li>
+
+  <br>
+
+  <li>
+    📷 <b>QuanPhotos</b><br>
+    Aviation photography and image technology community,
+    focusing on visual content management and intelligent image processing.
+  </li>
+</ul>
+
+</details>
+
+---
 <!-- About Me Section -->
 <details>
   <summary><b>🌸 About Me</b></summary>
@@ -35,6 +116,21 @@
 </details>
 
 ---
+<!-- GitHub Contribution Snake -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/cg8-5712/cg8-5712/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/cg8-5712/cg8-5712/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake"
+    src="https://raw.githubusercontent.com/cg8-5712/cg8-5712/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
