@@ -1,14 +1,11 @@
 name: Generate GitHub Contribution Snake
 
 on:
-  # 每天生成一次
   schedule:
     - cron: "0 0 * * *"
 
-  # 支持手动执行
   workflow_dispatch:
 
-  # main 分支更新时触发
   push:
     branches:
       - main
@@ -22,18 +19,16 @@ jobs:
       contents: write
 
     steps:
-      # Generate snake animation from GitHub contribution graph
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=f472b6&color_dots=#e0f2fe,#7dd3fc,#38bdf8,#818cf8,#f472b6
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=87cefa&color_dots=#172554,#1d4ed8,#60a5fa,#818cf8,#f472b6
+            dist/github-contribution-grid-snake.svg?color_snake=ffb6c1&color_dots=#fdf2f8,#e0f2fe,#bae6fd,#c7d2fe,#ffb6c1
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffb6c1&color_dots=#1e293b,#475569,#93c5fd,#c4b5fd,#fbcfe8
 
 
-      # Push generated files to output branch
       - name: Push snake assets
         uses: crazy-max/ghaction-github-pages@v4
         with:
